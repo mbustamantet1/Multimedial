@@ -17,7 +17,7 @@ Ejercicio 1, semana 1
 <meta charset="UTF-8">
 <!-- Define la codificación de caracteres para que se vean bien tildes y símbolos -->
 
-<title>página web</title>
+<title>Multimedial</title>
 <!-- Título de la página que aparece en la pestaña del navegador -->
 
 <style>
@@ -26,10 +26,10 @@ Ejercicio 1, semana 1
 body{
 /* "body" se refiere a todo el contenido visible de la página */
 
-  background-color: pink;
+  background-color: white;
   /* Define que el fondo de toda la página sea blanco */
 
-  color: green;
+  color: black;
   /* Define que el color del texto sea negro */
 
   margin: 0;
