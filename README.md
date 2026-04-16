@@ -1,6 +1,6 @@
 # Multimedial
 
-## Taller Multimedia
+## Taller Multimedial de Grado
 
 Ejercicio 1, semana 1 
 
