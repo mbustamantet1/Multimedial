@@ -213,7 +213,7 @@ body{
             <img src="img/IMG_1.jpeg" alt="imagen con pájaro">
             <h2>Marina B. Bustamante Tupper</h2>
             <p>
-                Serie de grabados de flora y fauna nativa, mezclando la técnica de barniz blando y linografía. 
+                Serie de grabados, Ecoprint y Cianotipos, enfocado en la naturaleza y el entorno. 
             </p>
             <a href="obra.html">Obra</a><br>
 
@@ -235,6 +235,7 @@ body{
 
 </html>
 <!-- Fin del documento HTML -->
+
 ```
 obra.html
 ```
@@ -339,6 +340,122 @@ a:hover {
             </p>
         </div>
 
+         <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/IMG_4.jpeg" alt="Descripción de la imagen">
+            <h2>Chincol y Molle</h2>
+            <p>
+               Barniz blando y linografía sobre papel de grabado, 2025.
+            </p>
+        </div>
+
+ <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/IMG_5.jpeg" alt="Descripción de la imagen">
+            <h2>Chucao y Boldo</h2>
+            <p>
+               Barniz blando y linografía sobre papel de grabado, 2025.
+            </p>
+        </div>
+
+         <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/IMG_6.jpeg" alt="Descripción de la imagen">
+            <h2>Churrete y Peumo</h2>
+            <p>
+               Barniz blando y linografía sobre papel de grabado, 2025.
+            </p>
+        </div>
+
+          <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/IMG_7.jpeg" alt="Descripción de la imagen">
+            <h2>Sin Título</h2>
+            <p>
+               Barniz blando sobre papel de grabado teñido por papel volantín, 2024.
+            </p>
+        </div>
+
+          <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/IMG_8.jpeg" alt="Descripción de la imagen">
+            <h2>Sin Título</h2>
+            <p>
+               Barniz blando sobre papel de grabado, 2024.
+            </p>
+        </div>
+
+          <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/IMG_9.jpeg" alt="Descripción de la imagen">
+            <h2>Sin Título</h2>
+            <p>
+              Eco print sobre papel , 2025.
+            </p>
+        </div>
+
+          <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/IMG_10.jpeg" alt="Descripción de la imagen">
+            <h2>Sin Título</h2>
+            <p>
+               Cianotipo sobre piedra, 2025.
+            </p>
+        </div>
+
+          <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/IMG_11.jpeg" alt="Descripción de la imagen">
+            <h2>Sin Título</h2>
+            <p>
+               Cianotipo sobre piedra, 2025.
+            </p>
+        </div>
+          <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/IMG_12.jpeg" alt="Descripción de la imagen">
+            <h2>Sin Título</h2>
+            <p>
+               Cianotipo sobre piedra, 2025.
+            </p>
+        </div>
+
+          <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/IMG_13.jpeg" alt="Descripción de la imagen">
+            <h2>Sin Título</h2>
+            <p>
+               Cianotipo sobre piedra, 2025.
+            </p>
+        </div>
+
+          <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/IMG_14.jpeg" alt="Descripción de la imagen">
+            <h2>Sin Título</h2>
+            <p>
+               Cianotipo sobre piedra, 2025.
+            </p>
+        </div>
+
+          <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/IMG_15.jpeg" alt="Descripción de la imagen">
+            <h2>Sin Título</h2>
+            <p>
+               Cianotipo sobre piedra, 2025.
+            </p>
+        </div>
+
+          <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/IMG_16.jpeg" alt="Descripción de la imagen">
+            <h2>Sin Título</h2>
+            <p>
+               Serie de cianotipos sobre piedras, 2025.
+            </p>
+        </div>
+
     </div>
 
 </body>
@@ -346,9 +463,9 @@ a:hover {
 
     <h1>Mi obra</h1>
 
-    <p>Serie de grabados con técnica mixta, barniz blando y linografía, sobre papel de grabado.</p>
+    <p>Grabados con técnica mixta, barniz blando y linografía, sobre papel de grabado. Eco print. Cianotipo sobre piedras. </p>
 
-    <p>Mi enfoque es hacia la flora y fauna, principalmente nativa.</p>
+    <p>Mi enfoque es hacia la naturaleza y el entorno, resaltando flora y fauna principalmente nativa.</p>
 
     <p>
         <a href="index.html">Inicio</a>
